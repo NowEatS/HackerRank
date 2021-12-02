@@ -8,3 +8,7 @@
 import Foundation
 
 var problem: Problem
+
+problem = PlusMinus()
+
+problem.playAnswer()
