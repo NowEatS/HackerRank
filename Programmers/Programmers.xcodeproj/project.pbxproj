@@ -10,6 +10,7 @@
 		F3D03BF2275FB7BB0063089D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D03BF1275FB7BB0063089D /* main.swift */; };
 		F3D03BF9275FB8A60063089D /* KthNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D03BF8275FB8A60063089D /* KthNumber.swift */; };
 		F3D03BFB2760379A0063089D /* BiggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D03BFA2760379A0063089D /* BiggestNumber.swift */; };
+		F3DD11302760F3940039756A /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3DD112F2760F3940039756A /* HIndex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		F3D03BF1275FB7BB0063089D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F3D03BF8275FB8A60063089D /* KthNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthNumber.swift; sourceTree = "<group>"; };
 		F3D03BFA2760379A0063089D /* BiggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiggestNumber.swift; sourceTree = "<group>"; };
+		F3DD112F2760F3940039756A /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				F3D03BF1275FB7BB0063089D /* main.swift */,
 				F3D03BF8275FB8A60063089D /* KthNumber.swift */,
 				F3D03BFA2760379A0063089D /* BiggestNumber.swift */,
+				F3DD112F2760F3940039756A /* HIndex.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				F3D03BF9275FB8A60063089D /* KthNumber.swift in Sources */,
 				F3D03BFB2760379A0063089D /* BiggestNumber.swift in Sources */,
 				F3D03BF2275FB7BB0063089D /* main.swift in Sources */,
+				F3DD11302760F3940039756A /* HIndex.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
