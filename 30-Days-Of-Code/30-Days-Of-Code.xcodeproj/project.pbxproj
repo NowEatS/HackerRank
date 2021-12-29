@@ -12,6 +12,7 @@
 		F34EE3C0277367C60009C341 /* Day03.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34EE3BF277367C60009C341 /* Day03.swift */; };
 		F34EE3C227736AB10009C341 /* Day04.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34EE3C127736AB10009C341 /* Day04.swift */; };
 		F34EE3C4277CD8B10009C341 /* Day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34EE3C3277CD8B10009C341 /* Day05.swift */; };
+		F34EE3C6277CDA6F0009C341 /* Day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34EE3C5277CDA6F0009C341 /* Day06.swift */; };
 		F3A6808A2758DF2800B2AE28 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A680892758DF2800B2AE28 /* main.swift */; };
 		F3A680922758DF6200B2AE28 /* Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A680912758DF6200B2AE28 /* Problem.swift */; };
 		F3A680942758DFDE00B2AE28 /* Day00.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A680932758DFDE00B2AE28 /* Day00.swift */; };
@@ -35,6 +36,7 @@
 		F34EE3BF277367C60009C341 /* Day03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day03.swift; sourceTree = "<group>"; };
 		F34EE3C127736AB10009C341 /* Day04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day04.swift; sourceTree = "<group>"; };
 		F34EE3C3277CD8B10009C341 /* Day05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day05.swift; sourceTree = "<group>"; };
+		F34EE3C5277CDA6F0009C341 /* Day06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day06.swift; sourceTree = "<group>"; };
 		F3A680862758DF2800B2AE28 /* 30-Days-Of-Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "30-Days-Of-Code"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3A680892758DF2800B2AE28 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F3A680912758DF6200B2AE28 /* Problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				F34EE3BF277367C60009C341 /* Day03.swift */,
 				F34EE3C127736AB10009C341 /* Day04.swift */,
 				F34EE3C3277CD8B10009C341 /* Day05.swift */,
+				F34EE3C5277CDA6F0009C341 /* Day06.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				F3A6808A2758DF2800B2AE28 /* main.swift in Sources */,
 				F34EE3C4277CD8B10009C341 /* Day05.swift in Sources */,
+				F34EE3C6277CDA6F0009C341 /* Day06.swift in Sources */,
 				F34EE39D276A37800009C341 /* Day01.swift in Sources */,
 				F34EE3BE277364AC0009C341 /* Day02.swift in Sources */,
 				F3A680922758DF6200B2AE28 /* Problem.swift in Sources */,
